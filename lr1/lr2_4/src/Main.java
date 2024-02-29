@@ -1,5 +1,3 @@
-// Числа, которые делятся на 5 и на 7.
-
 import java.util.Scanner;
 
 public class Main {
