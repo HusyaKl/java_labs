@@ -31,7 +31,7 @@ public class Robot {
                 }
 
                 try {
-                    Thread.sleep(1000); 
+                    Thread.sleep(1000);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
