@@ -18,7 +18,7 @@ public class Main {
         for (int out = arr_size - 1; out >= 1; out--){
             for (int in = 0; in < out; in++){
                 if(arr[in] > arr[in + 1]) {
-                    int dummy = arr[in];
+                    int dummy = arr[in];3
                     arr[in] = arr[in + 1];
                     arr[in + 1] = dummy;
                 }

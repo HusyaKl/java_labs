@@ -5,17 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60853c7e-3d37-4586-b970-ed7f737c5661" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lr3_4_5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Librarian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lr1/lr1_4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lr1/lr1_4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lr1/lr1_5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lr1/lr1_5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lr1/lr1_5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lr1/lr1_5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lr1/lr2_4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lr1/lr2_4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lr1/lr2_5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lr1/lr2_5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lr1/lr2_5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lr1/lr2_5/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lr2/lr1_4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lr2/lr1_4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lr2/lr1_5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lr2/lr1_5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lr2/lr2_4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lr2/lr2_4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lr3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lr3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lr3_1_5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lr3_1_5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lr3_2_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lr3_2_4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lr3_3_4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lr3_3_4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lr3_3_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lr3_3_4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lr3_3_5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lr3_3_5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lr3_3_5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lr3_3_5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lr3_4_4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lr3_4_4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lr3_4_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lr3_4_4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lr8/lr8_2/src/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lr8/lr8_2/src/Robot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,11 +38,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2eSPLBz5FqH8R9mbzlH2CqKZhRY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,8 +57,9 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/husya/IdeaProjects/lr4/lr4_1_4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,13 +68,6 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-11.0.22-corretto-11.0.22-4caba194b151-bfa3237e" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
